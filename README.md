@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning all for devops, fullstack, data base, and create drivers for computers. I want be a real expert in this world.
 - 💞️ I’m looking to collaborate on some project on i can lear what happen and help to solution the problem.
 - 📫 You can contact me for MD, i do all for help 😁.
-- 🔗 You can search me on LinkedIn: https://www.linkedin.com/in/federico-panasci-293a881a9/
-
+- 🔗 You can search me on LinkedIn: https://www.linkedin.com/in/federico-panasci/
 
 <!---
 FedericoPanasci/FedericoPanasci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
